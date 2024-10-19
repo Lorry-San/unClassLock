@@ -4,6 +4,8 @@
 
 基于[易语言](https://www.123pan.com/s/mEQLVv-kASHd.html)编写
 
+[下载地址](download.md)
+
 # 具体功能
 
  - 1.在下课时锁定电脑
