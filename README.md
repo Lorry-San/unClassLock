@@ -1,3 +1,4 @@
+![Icon](https://github.com/Lorry-San/unClassLock/blob/main/Icon.png)
 # unClassLock
 
 一款方便电教委员方便在下课时管理电脑的软件
@@ -15,3 +16,5 @@
 （目前这个程序才刚开始，没多少功能）
 
 请积极为这个仓库做贡献:)
+
+![Lorry-San](writer.png)
