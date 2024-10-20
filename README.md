@@ -3,7 +3,7 @@
 
 一款方便电教委员方便在下课时管理电脑的软件
 
-基于[易语言](https://www.123pan.com/s/mEQLVv-kASHd.html)编写
+基于[易语言](https://wwkp.lanzouv.com/izCxi2cyz8vi)编写
 
 [下载地址](download.md)
 
