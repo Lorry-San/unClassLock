@@ -8,3 +8,10 @@
 |文件名|Github下载地址|加速下载地址|
 | :---: | :---: | :---: |
 | unClassLock.exe | [Github下载地址](https://github.com/Lorry-San/unClassLock/releases/download/v1.0/unClassLock.exe) | [Github Proxy下载](https://ghp.ci/https://github.com/Lorry-San/unClassLock/releases/download/v1.0/unClassLock.exe) |
+
+ # v1.1
+ - 修复了部分bug
+
+|文件名|Github下载地址|加速下载地址|
+| :---: | :---: | :---: |
+| unClassLock.exe | [Github下载地址](https://github.com/Lorry-San/unClassLock/releases/download/v1.1/unClassLock.exe) | [Github Proxy下载](https://ghp.ci/https://github.com/Lorry-San/unClassLock/releases/download/v1.1/unClassLock.exe) |
